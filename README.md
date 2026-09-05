@@ -56,6 +56,7 @@ A seção de jogos reúne páginas individuais para diferentes títulos da franq
 
 O projeto está organizado em páginas HTML e pastas para facilitar a navegação e organização dos arquivos.
 
+```text
 rusty-lake-site/
 │
 ├── img-rusty-lake/
@@ -89,6 +90,7 @@ rusty-lake-site/
 ├── personagens.html
 ├── sobre.html
 └── universo.html
+```
 
 ## Objetivo
 
